@@ -1,6 +1,6 @@
 # Website
 
-(https://amaze360.github.io/360api-docs)[https://amaze360.github.io/360api-docs/]
+[https://amaze360.github.io/360api-docs](https://amaze360.github.io/360api-docs/)
 
 ## How to...
 
