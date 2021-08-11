@@ -11,7 +11,7 @@ This method allows users to create a new thing.
 
 ### Request Example
 
-~~~json
+```json
 {
   "code": "string",
   "nickName": "string",
@@ -29,7 +29,7 @@ This method allows users to create a new thing.
 ### Successful Response
 
 
-~~~json
+```json
 {
     "message": "updated player",
     "nick_name": "string",
@@ -55,20 +55,20 @@ This method allows users to create a new thing.
         "string"
     ]
 }
-~~~
+```
 
 ### Unsuccessful Response (not-found)
 
-~~~json
+```json
 {
   "message": "Gamecode doesn't exist",
   "error": "not-found"
 }
-~~~
+```
 
 ### Unsuccessful Response (not-unique)
 
-~~~json
+```json
 {
     "message": "Kokoka is already in use",
     "nick_name": "stringsd",
@@ -77,4 +77,4 @@ This method allows users to create a new thing.
     "secret_key": "901458786992",
     "error": "not-unique"
 }
-~~~
+```
