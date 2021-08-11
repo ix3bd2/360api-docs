@@ -1,7 +1,7 @@
 ---
-category: Stuff
-url_path: '/stuff'
-title: 'Post a thing'
+category: playerLogins
+url_path: '/player_logins'
+title: 'playerLogin'
 type: 'POST'
 
 layout: null
