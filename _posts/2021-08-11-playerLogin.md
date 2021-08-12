@@ -1,5 +1,5 @@
 ---
-category: playerLoginss
+category: playerLogins
 url_path: '/player_logins'
 title: 'playerLogin'
 type: 'POST'
@@ -10,6 +10,7 @@ layout: null
 This method allows users to create a new thing.
 
 ### Request Example
+```
 
 ```{
     "code": "string",
