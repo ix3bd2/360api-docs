@@ -1,5 +1,5 @@
 ---
-category: playerLogins
+category: playerLoginss
 url_path: '/player_logins'
 title: 'playerLogin'
 type: 'POST'
